@@ -17,7 +17,14 @@ This plugin provides a build parameter and will let the user choose a version fr
 We are using this plugin to let our QA department choose between the various available versions of our software. In combination with the "Publish via SSH" plugin the choosen artifact URL is passed to the testserver which is then able to retrieve the artifact and install it.
 
 ## Configuration Example
-![Alt text](/src/site/resources/project-config-1.jpg?raw=true "Example Project Configuration")
+* Add two parameter for choosing 
+
+  * Version 
+  * Repos
+
+  ​
+
+  ![Alt text](/src/site/resources/project-config-1.png?raw=true "Example Project Configuration")
 
 ## Documentation
 The user documentation is available here
