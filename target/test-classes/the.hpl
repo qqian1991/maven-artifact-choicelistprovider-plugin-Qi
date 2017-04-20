@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: maven-artifact-choicelistprovider
+Long-Name: Maven Artifact ChoiceListProvider (Nexus)
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Maven+Artifact+Choice
+ ListProvider+Plugin
+Plugin-Version: 1.1.3
+Hudson-Version: 1.609.3
+Jenkins-Version: 1.609.3
+Plugin-Dependencies: extensible-choice-parameter:1.3.3,credentials:2.1
+ .13
+Plugin-Developers: Qi Qian:qianqi:
+Libraries: C:\Users\QIQIAN\Desktop\maven-artifact-choicelistprovider-p
+ lugin-Qi\src\main\resources,C:\Users\QIQIAN\Desktop\maven-artifact-ch
+ oicelistprovider-plugin-Qi\target\classes,E:\Mavenrepo\org\glassfish\
+ hk2\hk2-utils\2.4.0-b06\hk2-utils-2.4.0-b06.jar,E:\Mavenrepo\com\sun\
+ jersey\jersey-client\1.9.1\jersey-client-1.9.1.jar,E:\Mavenrepo\javax
+ \ws\rs\javax.ws.rs-api\2.0.1\javax.ws.rs-api-2.0.1.jar,E:\Mavenrepo\o
+ rg\sonatype\nexus\plugins\nexus-indexer-lucene-model\2.13.0-01\nexus-
+ indexer-lucene-model-2.13.0-01.jar,E:\Mavenrepo\org\glassfish\jersey\
+ connectors\jersey-apache-connector\2.15\jersey-apache-connector-2.15.
+ jar,E:\Mavenrepo\org\codehaus\plexus\plexus-utils\2.1\plexus-utils-2.
+ 1.jar,E:\Mavenrepo\org\glassfish\hk2\osgi-resource-locator\1.0.1\osgi
+ -resource-locator-1.0.1.jar,E:\Mavenrepo\org\glassfish\hk2\hk2-locato
+ r\2.4.0-b06\hk2-locator-2.4.0-b06.jar,E:\Mavenrepo\org\apache\httpcom
+ ponents\httpcore\4.1\httpcore-4.1.jar,E:\Mavenrepo\com\sun\jersey\jer
+ sey-core\1.9.1\jersey-core-1.9.1.jar,E:\Mavenrepo\javax\ws\rs\jsr311-
+ api\1.1.1\jsr311-api-1.1.1.jar,E:\Mavenrepo\org\glassfish\jersey\bund
+ les\repackaged\jersey-guava\2.15\jersey-guava-2.15.jar,E:\Mavenrepo\o
+ rg\glassfish\hk2\external\aopalliance-repackaged\2.4.0-b06\aopallianc
+ e-repackaged-2.4.0-b06.jar,E:\Mavenrepo\org\sonatype\nexus\plugins\ne
+ xus-restlet1x-model\2.13.0-01\nexus-restlet1x-model-2.13.0-01.jar,E:\
+ Mavenrepo\org\glassfish\jersey\core\jersey-common\2.15\jersey-common-
+ 2.15.jar,E:\Mavenrepo\org\apache\maven\maven-model\3.0.5\maven-model-
+ 3.0.5.jar,E:\Mavenrepo\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+ ,E:\Mavenrepo\org\glassfish\jersey\core\jersey-client\2.15\jersey-cli
+ ent-2.15.jar,E:\Mavenrepo\commons-codec\commons-codec\1.4\commons-cod
+ ec-1.4.jar,E:\Mavenrepo\org\apache\httpcomponents\httpclient\4.1.1\ht
+ tpclient-4.1.1.jar,E:\Mavenrepo\javax\annotation\javax.annotation-api
+ \1.2\javax.annotation-api-1.2.jar,E:\Mavenrepo\org\javassist\javassis
+ t\3.18.1-GA\javassist-3.18.1-GA.jar,E:\Mavenrepo\org\glassfish\hk2\hk
+ 2-api\2.4.0-b06\hk2-api-2.4.0-b06.jar,E:\Mavenrepo\org\glassfish\hk2\
+ external\javax.inject\2.4.0-b06\javax.inject-2.4.0-b06.jar
+Resource-Path: C:\Users\QIQIAN\Desktop\maven-artifact-choicelistprovid
+ er-plugin-Qi\src\main\webapp
+
