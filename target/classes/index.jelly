@@ -1,4 +1,0 @@
-<?jelly escape-by-default='true'?>
-<div>
-  This Plugin adds a new ChoiceListProvider for the "Extensible Choice Plugin" which is able to read Artifact information from a Nexus repository.
-</div>
